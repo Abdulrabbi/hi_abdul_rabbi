@@ -1,0 +1,748 @@
+ @media (min-width: 320px) and (max-width: 575.99px) { 
+
+    /*=====================
+        Navbar_part-Start
+    =====================*/
+
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    .navbar-toggler:focus i{
+        color: #4756DF;
+    }
+
+    .navbar-toggler i{
+        color: white;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0px;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0,0.8);
+        padding: 15px 0;
+        border-radius: 40px;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    .navbar form .btn {
+        padding: 11px 46px !important; 
+        font-size: 16px;
+    }
+
+    /*=====================
+        Navbar_part-End
+    =====================*/
+
+    /*=====================
+        Banner_part-Start
+    =====================*/
+
+    .Banner_part .banner_img .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img .overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    
+    .Banner_part .banner_img_1 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img_1.overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_1 .overlay p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_2 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top: 247px !important;;
+    }
+
+    .Banner_part .banner_img_2 .overlay p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_3 .overlay p {
+        font-size: 15px;
+        width: auto;
+    }
+    .Banner_part .banner_img_3 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top: 247px !important;;
+    }
+    #Client{
+        display: none;
+    }
+
+    /*=====================
+        Banner_part-End
+    =====================*/
+
+    /*=====================
+        success_part-Start
+    =====================*/
+
+    #success_part {
+        margin: 40px 0 149px;
+    }
+
+    #success_part .text p {
+        text-align: center;
+    }
+
+    #success_part .text h2 {
+        font-size: 21px;
+        width: auto;
+        text-align: center;
+    }
+
+    .counter_main {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #success_part .counter_main .counter {
+        margin: 20px 0 0;
+    }
+
+    /*=====================
+        success_part-End
+    =====================*/
+
+    /*=====================
+        service_part-Start
+    =====================*/
+    .tital p {
+        width: auto;
+        padding: 0 34px;
+    }
+
+    .tital h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    #service_part .card_01 p {
+        width: auto;
+    }
+    #Work .tital .wokr_tital_p {
+        width: auto;
+    }
+    /*=====================
+        service_part-End
+    =====================*/
+
+    /*=====================
+        Agenc_Part-Start
+    =====================*/
+    #Agenc .tital h2 {
+        width: auto;
+        margin-top: 20px;
+    }
+    #Agenc .tital p {
+        width: auto;
+        margin-bottom: 28px;
+    }
+
+    #Agenc .agenc_part_01 {
+        margin-top: 0;
+    }
+
+    #Agenc .agenc_part_01 .room:first-child {
+        margin: 0;
+    }
+
+    #Agenc .agenc_part_01 .room h3 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    #Agenc .agenc_part_01 .room p {
+        font-size: 14px;
+        width: auto;
+        line-height: 16px;
+    }
+
+    #Agenc .agenc_part_01 .room {
+        margin: 0;
+        display: flex;
+        align-items: center;
+    }
+
+    #Agenc .Agenc_img img {
+        display: none;
+    }
+
+    /*=====================
+        Agenc_Part-End
+    =====================*/
+
+    /*=====================
+        From_Part-Start
+    =====================*/
+
+    #From_part h2 {
+        font-size: 33px;
+        line-height: 45px;
+        text-align: center;
+    }
+
+    #From_part p {
+        font-size: 14px;
+        width: auto;
+        text-align: center;
+    }
+
+    /*=====================
+        From_Part-End
+    =====================*/
+
+    /*=====================
+        Footer_part-Start
+    =====================*/
+
+    #footer_part p {
+        width: auto;
+        padding: 0 15px;
+    }
+
+    .footermain{
+        text-align: center;
+    }
+
+    #footer_part .footer_main_01 h3 {
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    #footer_part .footer_main_01 p {
+	text-align: center;
+	width: auto;
+    }
+
+    /*=====================
+        Footer_part-End
+    =====================*/
+
+ }
+
+ @media (min-width: 576px) and (max-width: 767.99px) { 
+    /*=====================
+        Navbar_part-Start
+    =====================*/
+
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    .navbar-toggler:focus i{
+        color: #4756DF;
+    }
+
+    .navbar-toggler i{
+        color: white;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0px;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0,0.8);
+        padding: 15px 0;
+        border-radius: 40px;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    .navbar form .btn {
+        padding: 11px 46px !important; 
+        font-size: 16px;
+    }
+
+    /*=====================
+        Navbar_part-End
+    =====================*/
+
+    /*=====================
+        Banner_part-Start
+    =====================*/
+
+    .Banner_part .banner_img .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img .overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_1 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img_1 .overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_2 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img_2 .overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    .Banner_part .banner_img_3 .overlay h1 {
+        font-size: 39px;
+        width: auto;
+        padding-top:247px !important ;
+    }
+
+    .Banner_part .banner_img_3 .overlay p {
+        font-size: 15px;;
+        width: auto;
+    }
+
+    /*=====================
+        Banner_part-End
+    =====================*/
+
+    /*=====================
+        success_part-Start
+    =====================*/
+
+    #success_part {
+        margin: 40px 0 149px;
+    }
+
+    #success_part .text p {
+        text-align: center;
+    }
+
+    #success_part .text h2 {
+        font-size: 34px;
+        width: auto;
+        text-align: center;
+    }
+
+    .counter_main {
+        text-align: center;
+    }
+
+    .counter_main .counter h2 {
+        font-size: 40px;
+        line-height: 51px;
+    }
+
+    #success_part .counter_main .counter {
+        margin: 20px 0 0;
+    }
+
+    /*=====================
+        success_part-End
+    =====================*/
+
+    /*=====================
+        service_part-Start
+    =====================*/
+    .tital p {
+        width: auto;
+        padding: 0 34px;
+    }
+
+    .tital h2 {
+        font-size: 36px;
+        line-height: 20px;
+    }
+
+    #service_part .card_01 {
+        padding: 15px;
+    }
+
+    #service_part .card_01 h3 {
+        font-size: 22px;
+    }
+
+    #service_part .card_01 p {
+        width: auto;
+    }
+
+
+    #Work .tital .wokr_tital_p {
+        width: auto;
+    }
+
+    #Work .from-01 h3 {
+        font-size: 16px;
+        line-height: 5px;
+    }
+
+    #Work .from-01 p {
+        line-height: 20px;
+        padding: 0 9px 30px;
+    }
+    /*=====================
+        service_part-End
+    =====================*/
+
+    /*=====================
+        Agenc_Part-Start
+    =====================*/
+    #Agenc .tital h2 {
+        width: auto;
+        margin-top: 20px;
+    }
+    #Agenc .tital p {
+        width: auto;
+        margin-bottom: 28px;
+        padding: 0 81px;
+    }
+
+    #Agenc .agenc_part_01 {
+        margin-top: 0;
+    }
+
+    #Agenc .agenc_part_01 .room:first-child {
+        margin: 0;
+    }
+
+    #Agenc .agenc_part_01 .room h3 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    #Agenc .agenc_part_01 .room p {
+        font-size: 14px;
+        width: auto;
+        line-height: 16px;
+    }
+
+    #Agenc .agenc_part_01 .room {
+        margin: 0;
+        display: flex;
+        align-items: center;
+    }
+
+    #Agenc .Agenc_img img {
+        display: none;
+    }
+
+    /*=====================
+        Agenc_Part-End
+    =====================*/
+
+    /*=====================
+        From_Part-Start
+    =====================*/
+
+    #From_part h2 {
+        font-size: 33px;
+        line-height: 45px;
+        text-align: center;
+    }
+
+    #From_part p {
+        font-size: 14px;
+        width: auto;
+        text-align: center;
+    }
+
+    /*=====================
+        From_Part-End
+    =====================*/
+
+    /*=====================
+        Footer_part-Start
+    =====================*/
+
+    #footer_part p {
+        width: auto;
+        padding: 0 61px;
+    }
+
+    .footermain{
+        text-align: center;
+    }
+
+    #footer_part .footer_main_01 h3 {
+        margin-bottom: 20px;
+        display: block;
+    }
+
+    #footer_part .footer_main_01 p {
+	text-align: center;
+	width: auto;
+    }
+
+    /*=====================
+        Footer_part-End
+    =====================*/
+  }
+
+ @media (min-width: 768px) and (max-width: 991.99px) { 
+    /*=====================
+        Navbar_part-Start
+    =====================*/
+
+    .navbar-toggler{
+        border: 0;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }
+
+    .navbar-toggler:focus i{
+        color: #4756DF;
+    }
+
+    .navbar-toggler i{
+        color: white;
+    }
+
+    .navbar-nav{
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 0px;
+    }
+
+    .navbar-collapse {
+        background: rgba(0, 0, 0,0.8);
+        padding: 15px 0;
+        border-radius: 40px;
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    .navbar form .btn {
+        padding: 11px 46px !important; 
+        font-size: 16px;
+    }
+
+    /*=====================
+        Navbar_part-End
+    =====================*/
+
+    /*=====================
+        Banner_part-Start
+    =====================*/
+
+    .Banner_part .banner_img .overlay h1 {
+        font-size: 53px;
+        width: auto;
+        padding-top: 247px !important;
+    }
+
+    .Banner_part .banner_img_1 .overlay h1 {
+        font-size: 53px;
+        width: auto;
+        padding-top: 247px !important;
+    }
+    .Banner_part .banner_img_2 .overlay h1 {
+        font-size: 53px;
+        width: auto;
+        padding-top: 247px !important;
+    }
+    .Banner_part .banner_img_3 .overlay h1 {
+        font-size: 53px;
+        width: auto;
+        padding-top: 247px !important;
+    }
+
+    /*=====================
+        Banner_part-End
+    =====================*/
+
+    /*=====================
+        Success_part-Start
+    =====================*/
+    #success_part .text h2 {
+        font-size: 31px;
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .counter_main .counter h2 {
+        font-size: 42px;
+    }
+
+    /*=====================
+        Success_part-End
+    =====================*/
+  
+
+    /*=====================
+        service_part-Start
+    =====================*/
+
+    #service_part .card_01 {
+        padding: 15px;
+    }
+
+    #service_part .card_01 p {
+        width: auto;
+    }
+    /*=====================
+        service_part-End
+    =====================*/
+
+    /*=====================
+        Agenc_part-Start
+    =====================*/
+
+    #Agenc .tital p {
+        padding: 0 132px ;
+    }
+
+    #Agenc .agenc_part_01 {
+        text-align: center;
+    }
+
+    #Agenc .agenc_part_01 .room p {
+        font-size: 13px;
+        width: auto;
+    }
+
+    .Agenc_img img {
+        width: 100%;
+        margin-top: 50px !important;
+    }
+
+    /*=====================
+        Agenc_part-End
+    =====================*/
+
+    #footer_part p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    }
+
+ @media (min-width: 992px) and (max-width: 1199.98px) { 
+
+    .navbar-nav .nav-item {
+        margin-left: 25px;
+    }
+
+
+    #success_part .text h2 {
+        font-size: 31px;
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .counter_main .counter h2 {
+        font-size: 42px;
+    }
+
+
+    #service_part .card_01 h3 {
+        font-size: 21px;
+    }
+
+    #service_part .card_01 p {
+        width: auto;
+    }
+
+    #Agenc .agenc_part_01 .room p {
+        width: auto;
+    }
+
+    .Agenc_img {
+        display: flex;
+        height: 100%;
+        align-items: center;
+    }
+
+    #Agenc .Agenc_img img {
+        width: 100%;
+    }
+
+    #From_part p {
+        width: auto;
+    }
+
+    #footer_part p {
+        width: auto;
+    }
+
+  }
+
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+    #success_part .text h2 {
+        font-size: 31px;
+        margin-bottom: 25px;
+        width: auto;
+    }
+
+    .counter_main .counter h2 {
+        font-size: 42px;
+    }
+
+    #service_part .card_01 p {
+        font-size: 15px;
+        width: auto;
+    }
+
+    .Agenc_img {
+        display: flex;
+        height: 100%;
+        align-items: center;
+    }
+
+    #Agenc .Agenc_img img {
+        width: 100%;
+    }
+
+  }
